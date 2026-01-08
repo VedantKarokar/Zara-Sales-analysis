@@ -3,7 +3,25 @@
 This Jupyter notebook performs comprehensive exploratory data analysis on apparel sales data, focusing on seasonal trends, material performance, product positions, promotions impact, and price-sales relationships. Key visualizations reveal Autumn as the peak sales season and jackets as top performers.
 
 # Report
-<iframe src="https://zara-sales-report.notion.site/ebd//2da9f5e250fa80f98416ee945a00f4f7" width="100%" height="600" frameborder="0" allowfullscreen />
+<iframe
+  src="https://zara-sales-report.notion.site/ebd/2da9f5e250fa80f98416ee945a00f4f7"
+  title="Zara Sales Report — Notion"
+  width="100%"
+  height="600"
+  style="border:0; display:block;"
+  loading="lazy"
+  allowfullscreen>
+  <!-- Fallback content for browsers or sites that block embedding -->
+  <div style="padding:24px; border:1px solid #ddd; background:#fafafa;">
+    <strong>Embedded report unavailable.</strong>
+    <p>
+      View the report directly:
+      <a href="https://zara-sales-report.notion.site/ebd/2da9f5e250fa80f98416ee945a00f4f7" target="_blank" rel="noopener noreferrer">
+        Zara Sales Report (Notion)
+      </a>
+    </p>
+  </div>
+</iframe>
 
 ## Features
 
