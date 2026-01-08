@@ -4,7 +4,7 @@ This Jupyter notebook performs comprehensive exploratory data analysis on appare
 
 # Report
 <iframe
-  src="https://zara-sales-report.notion.site/Zara-sales-analysis-2d59f5e250fa8099a17cfd70d7e51ccd?source=copy_link"
+  src="https://zara-sales-report.notion.site/ebd/2da9f5e250fa80f98416ee945a00f4f7"
   title="Zara Sales Report — Notion"
   width="100%"
   height="600"
@@ -16,7 +16,7 @@ This Jupyter notebook performs comprehensive exploratory data analysis on appare
     <strong>Embedded report unavailable.</strong>
     <p>
       View the report directly:
-      <a href="https://zara-sales-report.notion.site/Zara-sales-analysis-2d59f5e250fa8099a17cfd70d7e51ccd?source=copy_link" target="_blank" rel="noopener noreferrer">
+      <a href="https://zara-sales-report.notion.site/ebd/2da9f5e250fa80f98416ee945a00f4f7" target="_blank" rel="noopener noreferrer">
         Zara Sales Report (Notion)
       </a>
     </p>
