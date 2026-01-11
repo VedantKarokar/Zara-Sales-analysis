@@ -38,7 +38,12 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-1. Install and place your sales data CSV in `data/raw/sales_data.csv`
+1. To run ipykernel, run the following command
+    ```bash 
+    jupyter lab --no-browser
+    ```
+    Note: running `ipykernel` and selecting it specifically instead of python interpreter is important to run the `Analysis.ipynb` notebook properly.
+
 2. Open `Analysis.ipynb` and run all cells sequentially
 3. View interactive charts and insights immediately
 
