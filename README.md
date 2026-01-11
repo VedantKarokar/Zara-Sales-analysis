@@ -4,7 +4,7 @@ This Jupyter notebook performs comprehensive exploratory data analysis on appare
 
 # Report
 
-### *View the full report:* [🛍️ Zara Sales Report](https://zara-sales-report.notion.site/ebd/2da9f5e250fa80f98416ee945a00f4f7)
+### *View the full report:* [🛍️ Zara Sales Report](https://zara-sales-report.notion.site/ebd//2d59f5e250fa8099a17cfd70d7e51ccd)
 
 # Features
 
@@ -21,31 +21,29 @@ This Jupyter notebook performs comprehensive exploratory data analysis on appare
 data/                   # Add your sales CSV here
     ├── raw/              # Original dataset
     └── processed/        # Cleaned data
-figures/               # Export plots here
 notebook/
     └── Analysis.ipynb  # Main analysis notebook with all code and visuals
-report/
 README.md
 requirements.txt
 ```
 
 ## Requirements
+Execute the following command to install requirements.txt:
 
 ```bash
-pip install -r requirements.txt
+pip install -r Zara-Sales-analysis/requirements.txt
 ```
 
 
 ## Quick Start
 
-1. To run ipykernel, run the following command
+1. To run ipykernel, run the following command:
     ```bash 
     jupyter lab --no-browser
     ```
     Note: running `ipykernel` and selecting it specifically instead of python interpreter is important to run the `Analysis.ipynb` notebook properly.
-
-2. Open `Analysis.ipynb` and run all cells sequentially
-3. View interactive charts and insights immediately
+2. Open `Analysis.ipynb` and run all cells sequentially.
+3. View interactive charts and insights immediately.
 
 **Expected runtime**: ~2 minutes on standard hardware.
 
@@ -76,10 +74,7 @@ The notebook expects a CSV with these columns:
 
 ## Outputs Generated
 
-- 7 interactive Plotly charts saved to `figures/`
 - Correlation statistics printed in notebook
 - Summary tables for top materials/products/seasons
 
-## Reproducibility
-
-Run cells 1-5 for data loading/cleaning, then cells 6+ for specific analyses. All plots use consistent styling (white background, black axes). Results match exactly when using the same dataset.
+---
